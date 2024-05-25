@@ -2,6 +2,8 @@
 
 Repositório dedicado a guardar os códigos das maratonas ICPC, OBI e a resolução de exercícios do Neps e URI (Beecrowd). A maioria dos exercícios é resolvida em linguagem C ou C++. Além disso, o e-book Estrutura de Dados: Domine com C, gerado a partir do bootcamp Santander 2024 - Fundamentos de IA para Devs, foi adicionado com o intuito de oferecer uma base teórica para soluções dos exercícios.
 
+<a href="https://github.com/Murielly-Nascimento/Maratonas/blob/main/ebook%20-%20estrutura%20de%20dados%20em%20C.pdf" title="View PDF now"> 📘Clique aqui para ler</a>
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
